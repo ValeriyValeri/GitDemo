@@ -6,3 +6,8 @@ function SayBye()
 {
 	alert('Bye');
 }
+
+function nf1()
+{
+	alert('gggg');
+}
