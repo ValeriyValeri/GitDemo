@@ -14,6 +14,5 @@ function nf1()
 
 function f1()
 {
-	alert('445454');
+	alert('111');
 }
-
