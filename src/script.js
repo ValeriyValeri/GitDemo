@@ -17,3 +17,7 @@ function f1()
 	alert('445454');
 }
 
+function f222()
+{
+	alert('445454');
+}
